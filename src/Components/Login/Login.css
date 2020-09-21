@@ -1,0 +1,51 @@
+.Login {
+    text-align: center;
+    background-color:rgba(209, 178, 178, 0.89);
+    height:800px;
+  }
+  .Login img{
+      width:25px;
+  }
+
+  .login-area{
+    border:none;
+    box-shadow: 5px 6px 8px whitesmoke;
+    border-radius: 10px;
+    height: 300px;
+    width: 340px;
+    margin:0 auto;
+    padding:10px;
+    margin-top: 100px;
+  }
+  
+  .signUp-area{
+    border:none;
+    box-shadow: 5px 6px 8px whitesmoke;
+    border-radius: 10px;
+    height: 470px;
+    width: 360px;
+    margin:0 auto;
+    padding:10px;
+    margin-top: 100px;
+  }
+  .loginStyle{
+    margin: 13px 50px 30px 2px;
+  }
+  .inputStyle{
+    padding:10px;
+    margin:5px;
+    border-radius: 5px;
+    width: 300px;
+  }
+  .continueButton{
+    border:2px solid lightgray;
+    margin:5px;
+    padding:5px;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  .continueButton:hover{
+    border:2px solid goldenrod;
+  }
+  
+  

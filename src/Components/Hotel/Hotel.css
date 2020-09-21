@@ -1,0 +1,42 @@
+.hotelStyle{
+    width:20%;
+    margin-left: 25px;
+}
+.stay{
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.homeHotel{
+    background-color: gray;
+    position: relative;
+}
+.star{
+    width: 20px;
+}
+.preDiv{
+    position: absolute;
+    top: 140px;
+    left: 350px;
+    
+}
+.preDiv p{
+    color: wheat;
+}
+.preDiv h4{
+    font-weight: 700;
+}
+.preDiv span {
+    font-weight: bold;
+    color:white;
+}
+.gmap{
+    position: absolute;
+    top: 170px;
+    left: 870px;
+    
+}
+.gmapStyle{
+    height: 600px;
+    width: 600px;
+}

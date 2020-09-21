@@ -1,0 +1,48 @@
+.BookDetails{
+    height:680px;
+    width: 1390px;
+}
+.BookingHeading{
+    font-family: 'Roboto Slab', serif;
+    color:rgb(255, 60, 0);
+    margin-top: 100px;
+    margin-left: 400px;
+    font-weight: bolder;
+}
+.BookingText{
+    width: 500px;
+    font-family: 'Roboto Slab', serif;
+     color: cyan;
+     margin-left: 300px;
+     font-size: 25px;
+     font-weight: 520;
+     line-height: normal;
+}
+
+.form{
+    width:350px;
+    position:relative;
+    margin-left: 900px;
+    margin-top:150px;
+    border: 2px solid goldenrod;
+    background-color:whitesmoke;
+    padding: 25px;
+    border-radius: 15px;
+    
+}
+
+.icon{
+    
+    width: 22px;
+    float: right;
+}
+.date{
+    width:240px;
+    padding: 5px;
+    margin-left: 2px;
+    margin-bottom: 13px;
+    border-radius: 6px;
+}
+.to{
+    margin-left: 18px;
+}
