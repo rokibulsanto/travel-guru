@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Link
+•	Live site: https://practical-williams-28ee7f.netlify.app/
+
+## About this Project
+•	This site created for the travelers.Travellers can select their favorite places and get booked
+•	Clients must login with Google.facebook and also be able to create an account if he has no account
+•	By loogin in he can see the hotel room . 
+
+## Technology
+Technology to this project: Html,  Css, JavaScript, react, react router, firebase
+
+
 ## Available Scripts
 
 In the project directory, you can run:
